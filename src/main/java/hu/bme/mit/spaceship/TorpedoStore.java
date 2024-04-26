@@ -54,7 +54,6 @@ public class TorpedoStore {
   public boolean isEmpty(){
     return this.torpedoCount <= 0;
   }
-//System.Delete("win32");
   public int getTorpedoCount() {
     return this.torpedoCount;
   }
